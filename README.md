@@ -239,7 +239,6 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/nextjs14-saas-landing-page)](https://github.com/ladunjexa/nextjs14-saas-landing-page/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and
 create. Any contributions you make are **greatly appreciated**.
@@ -253,15 +252,7 @@ To fix a bug or enhance an existing module, follow these steps:
 5. Push to the branch (`git push origin improve-feature`)
 6. Create a Pull Request 🎉
 
-### 📩 Bug / Feature Request
 
-If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/nextjs14-saas-landing-page/issues/new) by including the issue
-with a title and clear description.
-
-If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/nextjs14-saas-landing-page/issues/new). Please include sample
-queries and their corresponding results.
 
 ## 💎 Acknowledgements
 
@@ -276,18 +267,3 @@ possible:
 - [React Just Parallax](https://www.npmjs.com/package/react-just-parallax)
 - [JavaScript Mastery](https://www.jsmastery.pro/)
 
-## 📞 Contact Us
-
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
-
-<!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
-
-## 📋 License
-
-**Brianwave** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is
-free to use — See
-[LICENSE](https://github.com/ladunjexa/nextjs14-saas-landing-page/blob/main/LICENSE) for more
-details.
